@@ -75,7 +75,7 @@ cowsay            # ASCII art with messages
 ## 🎨 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](screenshots/desktop-view.png)
+![Desktop Screenshot](screenshots/Desktop%20View.png)
 *Terminal interface on desktop - Full command-line experience*
 
 ### Mobile View
