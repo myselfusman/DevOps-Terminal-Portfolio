@@ -68,7 +68,7 @@ cowsay            # ASCII art with messages
 
 ## 🚀 Live Demo
 
-**[👉 View Live Portfolio](https://myselfusman.github.io/devops-terminal)**
+**[👉 View Live Portfolio](https://terminal.myselfusman.com)**
 
 ---
 
